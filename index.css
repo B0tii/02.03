@@ -1,6 +1,10 @@
 #container{
-    border: 3px solid black;
+    border: 3px solid red;
+    height: autog;
 }
 .cikk{
-    border: 2px dashed red;
+    border: 2px dashed black;
+    float: left;
+    width: clac(100% / 3);
+    box-sizing: border-box;
 }
