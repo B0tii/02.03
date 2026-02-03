@@ -3,4 +3,10 @@
 }
 .cikk{
     border: 2px dashed red;
+    display: inline-block;
+   /* width: calc(100% / 3 - 4px);*/
+   width: calc(100% / 3);
+   box-sizing: border-box;
+   
+
 }
